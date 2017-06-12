@@ -1,0 +1,1 @@
+# uv_code_static
